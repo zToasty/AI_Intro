@@ -28,9 +28,9 @@ pip install ultralytics
 
 ## Пример запуска
 ```bash
-python run_inference.py --weights best.pt --input_dir путь\к\изображениям --output_dir путь\куда\сохранять
+python run.py --weights best.pt --input_dir путь\к\изображениям --output_dir путь\куда\сохранять
 
-python run_inference.py --weights best.pt --input_dir images/ --output_dir results/
+python run.py --weights best.pt --input_dir images/ --output_dir results/
 ```
 
 ## Веса в репозитории:
