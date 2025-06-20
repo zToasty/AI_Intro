@@ -9,9 +9,16 @@
 ```bash
 git clone https://github.com/zToasty/AI_Intro.git
 cd AI_Intro
-
-python -m venv venv
 ```
+## Создайте Виртуальное окружение
+```bash
+python -m venv venv
+
+ИЛИ
+
+python3 -m venv venv
+```
+## Активируйте Виртуальное окружение
 🔵 Windows
 ```bash
 venv\Scripts\activate
